@@ -1,3 +1,1 @@
-[![Build Status](https://travis-ci.org/jhipster/generator-jhipster.svg?branch=master)](https://travis-ci.org/jhipster/generator-jhipster)
-
-Full documentation and information is available on our website at [http://jhipster.github.io/](http://jhipster.github.io/)
+The purpose of this fork is for me to remove Angular JS from the project in order to pave the way for 2 new variants.
